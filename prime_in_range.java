@@ -1,4 +1,4 @@
-//Write a function to find count of number of prime in a given range. Also include starting and ending numbers in the range.
+/*Write a function to find count of number of prime in a given range. Also include starting and ending numbers in the range.For e.g find prime between 2 and 20*/
 import java.util.Scanner;
 class prime_in_range{
 	public static int countPrimeInRange(int input1,int input2){
