@@ -1,0 +1,23 @@
+write a function t find out t_value, three int numbers are passed as arguement
+ to the function. These integers must range between 1-1000.
+  t_value(int input1,int input2,int input3). Following rules should be followed
+  to find t_value.
+   
+ Rule I:-
+  i. If input2 is an even prime then calculate result as 
+  result=input*input1*(sum of first input2 prime numbers)
+  
+  ii. If input2 is odd prime then calculate result as
+  result=input*input1*(sum of first input3 prime numbers)
+  
+  iii. If input2 is even  composite then calculate result as
+  result=input*input1*(sum of first (input2+input3) prime numbers)
+  
+  iv. If input2 is odd composite then calculate result as
+  result=input*input1*(sum of first (input1+input2+input3) prime  numbers)
+  
+  Rule II
+  if result calculated in the above rule is prime then
+  		return t_value=result+input1
+  if result calculated in the above result is composite then
+  		return t_value=result-input1
