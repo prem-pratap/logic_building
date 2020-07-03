@@ -1,5 +1,8 @@
 write a function t find out t_value, three int numbers are passed as arguement
  to the function. These integers must range between 1-1000.
+1<=input1<=1000
+1<=input2<=1000
+1<=input3<=1000
   t_value(int input1,int input2,int input3). Following rules should be followed
   to find t_value.
    
