@@ -1,2 +1,2 @@
 # logic_building
-This repo contains logic building codes of c and java language
+This repository contains various logic building codes of java and c language 
