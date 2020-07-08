@@ -3,13 +3,13 @@
 import java.util.Scanner;
 class digit_count{
 	public static int count_digit(int input1){
-		int  count=0;
+		int  cnt=0;
 		while(input1>0){
 		input1=input1/10;
-		count=count+1;		
+		cnt=cnt+1;		
 		}
 	
-	return count;
+	return cnt;
 	}
 	
 	public static void main(String[] args){
