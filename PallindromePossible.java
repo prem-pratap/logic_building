@@ -1,4 +1,5 @@
-/*write a function to find whether it is possible to get a pallindrome number from a given number by re-arranging the positions of digits. If yes, the function should return 2 else it should return 1*/
+/*write a function to find whether it is possible to get a pallindrome number from a given number by re-arranging the positions of digits.
+ If yes, the function should return 2 else it should return 1*/
 
 import java.util.Scanner;
 
