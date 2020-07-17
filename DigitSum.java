@@ -19,7 +19,7 @@ class DigitSum{
 	Scanner sc=new Scanner(System.in);
 	System.out.println("Enter a number:");
 	int num=sc.nextInt();
-	System.out.println("Enter choice whether even or odd:");
+	System.out.println("Enter choice whether you want sum of  even or odd digits:");
 	String choice=sc.next();
 	int sum=EvenOddDigitSum(num,choice);
 	System.out.println("The sum of "+choice+" digits:"+sum);
