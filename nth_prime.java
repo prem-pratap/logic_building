@@ -27,7 +27,7 @@ class nth_prime{
 		System.out.println("Enter the position of prime number:");
 		int num=sc.nextInt();
 		int output=NthPrime(num);
-		System.out.println("The "+num+" prime number is "+output); 
+		System.out.println("The "+num+"th prime number is "+output); 
 	
 
 	}
