@@ -1,4 +1,4 @@
-/*Write a fucntion to find the count of non-repeated digit in given number N. The number will be passed to the function as arguement*/
+/*Write a fucntion to find the number of non-repeated digit in given number N. The number will be passed to the function as arguement*/
 
 import java.util.Scanner;
 class NonRepeatDigitCount{
